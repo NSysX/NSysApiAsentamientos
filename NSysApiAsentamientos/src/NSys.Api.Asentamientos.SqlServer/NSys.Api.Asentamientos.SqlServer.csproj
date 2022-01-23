@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NSys.Api.Asentamientos.Abstracciones\NSys.Api.Asentamientos.Abstracciones.csproj" />
+    <ProjectReference Include="..\NSys.Api.Asentamientos.Entidades\NSys.Api.Asentamientos.Entidades.csproj" />
+  </ItemGroup>
+
 </Project>
