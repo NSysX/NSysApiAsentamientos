@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSys.Api.Asentamientos", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSys.Api.Asentamientos.SqlServer", "src\NSys.Api.Asentamientos.SqlServer\NSys.Api.Asentamientos.SqlServer.csproj", "{9AD56155-92DC-47A0-8AF6-A2C8B0E40CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSys.Api.Asentamientos.Abstracciones", "src\NSys.Api.Asentamientos.Abstracciones\NSys.Api.Asentamientos.Abstracciones.csproj", "{A6861332-A9A6-483D-8B68-0B305C2B068E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSys.Api.Asentamientos.Abstractions", "src\NSys.Api.Asentamientos.Abstracciones\NSys.Api.Asentamientos.Abstractions.csproj", "{A6861332-A9A6-483D-8B68-0B305C2B068E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSys.Api.Asentamientos.Entidades", "src\NSys.Api.Asentamientos.Entidades\NSys.Api.Asentamientos.Entidades.csproj", "{C414B828-1424-42F4-A72D-CB4D9CCB21F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSys.Api.Asentamientos.Entities", "src\NSys.Api.Asentamientos.Entidades\NSys.Api.Asentamientos.Entities.csproj", "{C414B828-1424-42F4-A72D-CB4D9CCB21F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

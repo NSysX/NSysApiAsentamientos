@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NSys.Api.Asentamientos.Abstracciones\NSys.Api.Asentamientos.Abstracciones.csproj" />
-    <ProjectReference Include="..\NSys.Api.Asentamientos.Entidades\NSys.Api.Asentamientos.Entidades.csproj" />
+    <ProjectReference Include="..\NSys.Api.Asentamientos.Abstracciones\NSys.Api.Asentamientos.Abstractions.csproj" />
+    <ProjectReference Include="..\NSys.Api.Asentamientos.Entidades\NSys.Api.Asentamientos.Entities.csproj" />
   </ItemGroup>
 
 </Project>
